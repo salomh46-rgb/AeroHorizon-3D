@@ -1,0 +1,6 @@
+{
+  "name": "AeroHorizon 3D — Low-Poly Flight Simulator",
+  "description": "Низкополигональный 3D-симулятор полёта над процедурным рельефом с поддержкой мультиплеера, облачных сохранений, таблицы лидеров и адаптивного звука.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
